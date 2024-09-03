@@ -1,5 +1,7 @@
 # Investment_Strategy
 
+參考Profitability of simple stationary technical trading rules with high-frequency data of Chinese Index Futures(2017)
+
 # 價量資料
 ![image](https://github.com/user-attachments/assets/534418fb-d655-423d-b5d7-e04111d9f8dc)
 
